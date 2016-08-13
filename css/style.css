@@ -1,0 +1,10 @@
+body {
+	font-style: PT Sans Narrow;
+
+}
+
+
+.main-navigation ul li a{
+	font-size: 16px;
+	text-decoration: none;
+}
